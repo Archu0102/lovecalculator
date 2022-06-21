@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    background-image: url('ice.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+#div1{
+    
+    background-color: aqua;
+    height: 300px;
+    width: 500px;
+    border: 2px solid white;
+}
+#div2{
+    
+    text-align: center;
+    height: 40px;
+    width: auto;
+    text-align: center;
+    color: white;
+    background-color: red;
+     border: 2px solid red;
+    
+}
+
+button{
+    
+    background-color: green;
+}
+#div3{
+    text-align: center;
+    height: 40px;
+    width: auto;
+    background-color: grey;
+    color: white;
+    margin-bottom: 0;
+    margin-top: 85px;
+}
+#btn{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(82, 218, 82);
+
+}
+
+form{
+    text-align: center;
+    margin-top: 22px;
+}
